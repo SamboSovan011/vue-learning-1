@@ -1,18 +1,18 @@
 {
   "jobs": [
     {
-      "id": "1",
-      "title": "Senior Vue Developer",
       "type": "Full-Time",
+      "title": "Senior Vue Development",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$100K - $125K",
       "location": "Boston, MA",
-      "salary": "$70K - $80K",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
         "contactEmail": "contact@teksolutions.com",
         "contactPhone": "555-555-5555"
-      }
+      },
+      "id": "1"
     },
     {
       "id": "2",
@@ -85,62 +85,6 @@
       }
     },
     {
-      "id": "fe97",
-      "type": "Part-Time",
-      "title": "asdfas",
-      "description": "asdfasd",
-      "salary": "Under $50K",
-      "location": "asdfas",
-      "company": {
-        "name": "adsfasd",
-        "description": "adfasd",
-        "contactEmail": "lucksolent@gmail.com",
-        "contactPhone": "095655890"
-      }
-    },
-    {
-      "id": "f568",
-      "type": "Part-Time",
-      "title": "sadfasd",
-      "description": "adfsadf",
-      "salary": "Under $50K",
-      "location": "asdfsaf",
-      "company": {
-        "name": "adfdsfa",
-        "description": "sdfsad",
-        "contactEmail": "lucksolent@gmail.com",
-        "contactPhone": "095655890"
-      }
-    },
-    {
-      "id": "47c0",
-      "type": "Part-Time",
-      "title": "adfasf",
-      "description": "asdfsaf",
-      "salary": "Under $50K",
-      "location": "sadfsa",
-      "company": {
-        "name": "sdfasd",
-        "description": "asdfsaf",
-        "contactEmail": "lucksolent@gmail.com",
-        "contactPhone": "095655890"
-      }
-    },
-    {
-      "id": "ba96",
-      "type": "Part-Time",
-      "title": "sddfsadf",
-      "description": "sdafdsa",
-      "salary": "Under $50K",
-      "location": "asdfasf",
-      "company": {
-        "name": "dafsf",
-        "description": "sadfsa",
-        "contactEmail": "lucksolent@gmail.com",
-        "contactPhone": "095655890"
-      }
-    },
-    {
       "id": "c9de",
       "type": "Part-Time",
       "title": "Laravel + Vue Developer",
@@ -153,6 +97,20 @@
         "contactEmail": "lucksolent@gmail.com",
         "contactPhone": "095655890"
       }
+    },
+    {
+      "type": "Part-Time",
+      "title": "Librarian Cool",
+      "description": "Simple",
+      "salary": "$70K - $80K",
+      "location": "Phnom Penh",
+      "company": {
+        "name": "AitySolution",
+        "description": "dsaf",
+        "contactEmail": "lucksolent@gmail.com",
+        "contactPhone": "095655890"
+      },
+      "id": "b47e"
     }
   ]
 }
